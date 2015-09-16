@@ -1,0 +1,4 @@
+#-*- mode: mandoku-view; -*-
+#+TITLE: 種種雜經
+#+DATE: 2015-08-30 20:35:05.997127
+#+PROPERTY: JUAN 0
